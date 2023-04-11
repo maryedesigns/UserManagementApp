@@ -10,3 +10,15 @@ C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagement
 C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Domain\obj\Debug\net6.0\refint\UserManagementApp.Domain.dll
 C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.pdb
 C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Domain\obj\Debug\net6.0\ref\UserManagementApp.Domain.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\bin\Debug\net6.0\UserManagementApp.Domain.deps.json
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\bin\Debug\net6.0\UserManagementApp.Domain.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\bin\Debug\net6.0\UserManagementApp.Domain.pdb
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.csproj.AssemblyReference.cache
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.AssemblyInfoInputs.cache
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.AssemblyInfo.cs
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\refint\UserManagementApp.Domain.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\UserManagementApp.Domain.pdb
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.Domain\obj\Debug\net6.0\ref\UserManagementApp.Domain.dll

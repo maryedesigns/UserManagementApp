@@ -15,3 +15,20 @@ C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagement
 C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.pdb
 C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.genruntimeconfig.cache
 C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.DataAccess\obj\Debug\net6.0\ref\UserManagementApp.DataAccess.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\bin\Debug\net6.0\UserManagementApp.DataAccess.deps.json
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\bin\Debug\net6.0\UserManagementApp.DataAccess.runtimeconfig.json
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\bin\Debug\net6.0\UserManagementApp.DataAccess.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\bin\Debug\net6.0\UserManagementApp.DataAccess.pdb
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\bin\Debug\net6.0\UserManagementApp.Domain.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\bin\Debug\net6.0\UserManagementApp.Domain.pdb
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.AssemblyInfo.cs
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.csproj.CopyComplete
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\refint\UserManagementApp.DataAccess.dll
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.pdb
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\UserManagementApp.DataAccess.genruntimeconfig.cache
+C:\Users\erhie\Desktop\Projects\User\UserManagementApp.DataAccess\obj\Debug\net6.0\ref\UserManagementApp.DataAccess.dll
