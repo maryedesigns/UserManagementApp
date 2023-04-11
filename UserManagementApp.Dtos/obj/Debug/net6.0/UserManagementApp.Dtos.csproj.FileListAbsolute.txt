@@ -1,0 +1,15 @@
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.csproj.AssemblyReference.cache
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.AssemblyInfo.cs
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\bin\Debug\net6.0\UserManagementApp.Dtos.deps.json
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\bin\Debug\net6.0\UserManagementApp.Dtos.dll
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\bin\Debug\net6.0\UserManagementApp.Dtos.pdb
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\bin\Debug\net6.0\UserManagementApp.Domain.dll
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\bin\Debug\net6.0\UserManagementApp.Domain.pdb
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.csproj.CopyComplete
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.dll
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\refint\UserManagementApp.Dtos.dll
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\UserManagementApp.Dtos.pdb
+C:\Users\erhie\Desktop\MaryE\Balablue\Project task for stage four\UserManagementApp.Dtos\obj\Debug\net6.0\ref\UserManagementApp.Dtos.dll
